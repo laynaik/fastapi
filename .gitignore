@@ -1,9 +1,10 @@
 # Byte-compiled / optimized / DLL files
 fastapi/
-bin/
-lib/
-include/
-pyvenv.cfg/
+# bin/
+# include/
+# lib/
+# lib64/
+# pyvenv.cfg/
 __pycache__/
 *.py[cod]
 *$py.class
